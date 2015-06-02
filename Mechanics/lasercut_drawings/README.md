@@ -3,7 +3,7 @@
   Please note the following for laser-cutting the parts.
 
   - All sheets are 6 mm, preferably birch plywood
-  - The source drawing(s) in .DWG for each body is found in respective part's folder
+  - The source drawing(s) in .SLDDRW for each body is found in respective part's folder
   - These files are exported to .dxf files in the lasercut_drawing/dxf/ folder
   - If you alter the parts of a body, the .DWG will be updated when you load them, but
     not necessarily any exported files. So make sure to do the export (save as...) as well.
