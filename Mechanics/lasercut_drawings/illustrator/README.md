@@ -6,9 +6,9 @@
   and then by "place" the .dxf files after scaling (see image
   import-from-dxf-settings.png for how this is done). 
 
-  Note: engraved areas are marked as black through the live paint mode
-        which is discouraged by cutlasercut.com, someone with more
-        illustrator skills - please help fix them.
+  These updated files are tested for cutting by cutlasercut.com 
+  just tell them to use 6.0 mm (or slightly less) plywood and cut
+  as straight down as possible.
 
 
-  /Jonas Forsslund June 2nd 2015
+  /Jonas Forsslund June 2nd 2016
