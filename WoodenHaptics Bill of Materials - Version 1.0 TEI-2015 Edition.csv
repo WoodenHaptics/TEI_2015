@@ -1,0 +1,180 @@
+,,,,,,,,Lowest,,,,,
+,WoodenHaptics.org Bill of Materials and Recommended Equipment,,Estimated part cost w/o motor & enc.:,,,,€962.23,€962.23,,,,,
+,,,Estimated motor & encoder cost:,,,,"€1,420.78","€1,420.78",,,,,
+,We will try to reduce the number of distributors to reduce complexity,,Estimated PC connection cost:,,,,€811.29,€51.61,,,,,
+,"Maxon, Farnell and Misumi is easy to access globally",,Estimated required tools cost:,,,,€196.95,€0.00,,,,,
+,Other distributors might be tricky in some parts of the world,,Estimated total* part cost for kit:,,,,"€3,391.25","€2,434.62",,,,,
+,Let us know your experience in the forum of woodenhaptics.org ,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,"*) No labour cost included, i.e. for laser-cutting or soldering.",,1 EUR in SEK,,,,kr9.45,,,,,,
+,"Largest costs are in the motors, drivers and PCIe card that could",,1 EUR in USD,,,,$1.19,,,,,,
+,be re-used in several projects if you so wish. Required tools ,,1 EUR in CHF,,,,CHF1.03,,,,,,
+,(except laser-cutter and soldering tools) are included. ,,,,,,,,,,,,
+,,,Suggested distributor (Europe) part number,,,,,,,Estimated Unit Cost €,,,
+Alter- native,Our Name,quantity,Maxon,McMaster,Farnell,Misumi,Elektrokit,Tecni-cable,Other Distributor,,Full name,Notes,Sum Cost
+,,,,,,,,,,,,,€0.00
+,MECHANICS,,,,,,,,,,,,€0.00
+,,,,,,,,,,,,,€0.00
+,Raw Material,,,,,,,,,,,,€0.00
+,6 mm birch plywood A2 sheet (594 x 420 mm) (alternatives possible),5,,,,,,,Local / cutlasercut.com,€5.29,,,€26.46
+,,,,,,,,,,,,,€0.00
+,Construction Hardware: Base,,,,,,,,,,,,€0.00
+,M3x10 (for motor),6,,,,CB3-10,,,,€0.09,,,€0.54
+,M3x35,6,,91290A135,,CB3-35,,,,€0.12,,,€0.72
+,M3x50,4,,91290A137,,CB3-50,,,,€0.24,,,€0.96
+,M5x90,6,,91290A278,,CB5-90,,,,€0.30,,,€1.80
+,M3x22,10,,91290A124,,CB3-22,,,,€0.10,,,€1.00
+,6x10x1 washer,6,,,,WSSB10-6-1,,,,€1.05,,,€6.30
+,10x55x4x5 capstan (10x55 shaft (RDOF10-55) ok if 10mm coupler),1,,,,SFRMHP10-55-F5-P4,,,,€7.36,,,€7.36
+,10x22x6 bearing,2,,,,SB6900ZZ,,,,€5.60,,,€11.20
+,Flexible Coupler that fits motor shaft diameter and 4 (10) mm capstan,1,,,,CPL25-6-10,,,,€28.80,,,€28.80
+ALT,"For smaller motor, use CPL12-3-4 or CPL12-4-5",0,,,,,,,,,,,
+,3x20 dowel pin,4,,,,MS3-20,,,,€0.08,,,€0.32
+,3x40 dowel pin,7,,,,MS3-40,,,,€0.20,,,€1.40
+,3x60 dowel pin (Substitute with MS3-40),5,,,,MS3-40,,,,€0.20,,,€1.00
+,,,,,,,,,,,,,€0.00
+,Construction Hardware: Body A,,,,,,,,,,,,€0.00
+,M3x10 (for motor),12,,,,CB3-10,,,,€0.09,,,€1.08
+,8x22x7 bearing,2,,,,B608ZZ,,,,€1.80,,,€3.60
+,10x22x6 bearing,4,,,,SB6900ZZ,,,,€5.60,,,€22.40
+,M3x22,7,,,,CB3-22,,,,€0.10,,,€0.70
+,M3x18,16,,,,CB3-18,,,,€0.09,,,€1.44
+,M3x45,6,,,,CB3-45,,,,€0.17,,,€1.02
+,M6/1.0 nut,1,,,,LBNR6,,,,€0.32,,,€0.32
+,M4x45 full thread (thread M4/0.75),1,,,,ACB4-45,,,,€0.35,,,€0.35
+,M4/0.75 nut,1,,,,LBNR4,,,,€0.28,,,€0.28
+,8x60 Shoulder bolt,1,,92981A215,,MSB8-60,,,,€0.80,,,€0.80
+,8x110 Shoulder bolt (thread M6/1.0),1,,,,MSB8-110,,,,€1.00,,,€1.00
+,8x05 Belleville (spring) washer,1,,94065K340,,SSRBW8,,,,€1.05,,,€1.05
+,8x14x05 shim,6,,98055A114,,CIMR8-14-0.5,,,,€0.50,,,€3.00
+,Flexible Coupler (25x10x6 or 16x6x5),2,,,,CPL25-6-10,,,,€28.80,,,€57.60
+,10x55x4x5 capstan (10x55 shaft (RDOF10-55) ok if 10mm coupler),2,,,,SFRMHP10-55-F5-P4,,,,€7.36,,,€14.72
+,,,,,,,,,,,,,€0.00
+,Construction Hardware: Body B,,,,,,,,,,,,€0.00
+,8x14x05 shim,1,,98055A114,,CIMR8-14-0.5,,,,€0.42,,,€0.42
+,8x05 Belleville (spring) washer,1,,94065K340,,SSRBW8,,,,€1.05,,,€1.05
+,3x25 pin,9,,,,MS3-25,,,,€0.20,,,€1.80
+,M3x22,11,,,,CB3-22,,,,€0.10,,,€1.10
+,8x22x7 bearing,4,,,,B608ZZ,,,,€1.80,,,
+,M4x45 full thread (thread M4/0.75),1,,,,ACB4-45,,,,€0.35,,,€0.35
+,M4/0.75 nut,1,,,,LBNR4,,,,€0.28,,,€0.28
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,€0.00
+,Construction Hardware: Body C,,,,,,,,,,,,€0.00
+,M3x30,4,,,,CB3-30,,,,€0.12,,,€0.48
+,M3x18,2,,,,CB3-18,,,,€0.09,,,€0.18
+,3x20 dowel pin,2,,,,MS3-20,,,,€0.08,,,€0.16
+,3x35 dowel pin (3x30 preferred),4,,,,MS3-35,,,,€0.20,,,€0.80
+,8x60 shoulder bolt,1,,92981A215,,MSB8-60,,,,€0.80,,,€0.80
+,8x14x05 shim,9,,98055A114,,CIMR8-14-0.5,,,,€0.42,,,€3.78
+,8x05 belleville (spring) washer,1,,,,SSRBW8,,,,€1.05,,,€1.05
+,M6 nut (1mm thread),1,,,,LBNR6,,,,€0.32,,,€0.32
+,,,,,,,,,,,,,€0.00
+,Construction Hardware: Body C',,,,,,,,,,,,€0.00
+,M4x45 full thread (thread M4/0.75),1,,,,ACB4-45,,,,€0.35,,,€0.35
+,M4/0.75 nut,1,,,,LBNR4,,,,€0.28,,,€0.28
+,M3x22,7,,91290A124,,CB3-22,,,,€0.10,,,€0.70
+,8x22x7 bearing,2,,,,B608ZZ,,,,€1.80,,,€3.60
+,3x35 dowel pin,4,,,,MS3-35,,,,€0.20,,,€0.80
+,M3x35,3,,,,CB3-35,,,,€0.12,,,€0.36
+,8x14x05 shim,6,,98055A114,,CIMR8-14-0.5,,,,€0.42,,,€2.52
+,,,,,,,,,,,,,€0.00
+,Construction Hardware: Cabling,,,,,,,,,,,,€0.00
+,Wire rope (more threads preferable),10,,,,,,603.000.540,,€0.89,0.54mm 7x7 A4-AISI 316 Stainless Steel Cable MBL 16kgs - 603.000.540,,€8.92
+,Double ferrule (for crimping onto wire rope),20,,,,,,115.000.700,,€0.24,Code 0.7 Double Copper Ferrule,,€4.78
+,Turnbuckle (spannschloss),1,,,,,,,Hobbykellershop.eu: 018-3051 ,€6.19,Spannschloss M2.5 - High Precision,,€6.19
+,,,,,,,,,,,,,€0.00
+,Required Tools for Mechanics Workbench,,,,,,,,,,,,€0.00
+,Arbor Press,1,,,,,,,Schuchardt Maskin smaskin.se,€92.06,Verkstadspress (1 tonne recommended),Chose a larger next time,€92.06
+,Wire rope cutter,1,,,,,,100.004.062,,€9.95,Budget Wire Rope Cutter up to 3mm Diameter - 100.004.062,Chose a better and more expensive,€9.95
+,Wire rope ferrule crimper (you really need this),1,,,,,,115.007.023,,€51.43,TECNI®Cable Crimp Tool for Double Copper Ferrules - 115.007.023,,€51.43
+,Torch,1,,,,,,,Teknikmagasinet.se 340927,€24.34,,,€24.34
+,Torch gas,1,,,,,,,Teknikmagasinet.se 340927,€3.17,,,€3.17
+,Hex keys,1,,,,,,,Local,€8.00,,,€8.00
+,Adjustable wrench,1,,,,,,,Local,€8.00,,,€8.00
+,,,,,,,,,,,,,€0.00
+,Other,,,,,,,,,,,,€0.00
+,Rubber feet (from a computer case; SilverStone Milo ML05B Black),4,,,,,,,,€1.00,,,€4.00
+,,,,,,,,,,,,,€0.00
+,ELECTRONICS,,,,,,,,,,,,€0.00
+,,,,,,,,,,,,,€0.00
+,Electronics Box,,,,,,,,,,,,€0.00
+,WoodenHaptics Motherboard (see below),1,,,,,,,,,,,€0.00
+,WoodenHaptics DAQ Extension board (see below) /or/,1,,,,,,,,,,,€0.00
+ALT,mbed.org LPC1768 (OM11043) M3 extension board (for USB experimental),0,,,1761179,,,,,€51.61,"NXP  OM11043  LPC1768, MBED PROTOTYPING BOARD, KIT",The chip alone is only 90kr,€0.00
+,Maxon 50/5 driver module (could eventually be custom made),3,438725,,,,,,,€148.64,"ESCON Module 50/5, 4-Q Servocontroller for DC/EC motors, 5/15 A, 10 - 50 VDC",,€445.92
+,,,,,,,,,,,,,€0.00
+,Power Supply,,,,,,,,,,,,€0.00
+,"48V power supply, at least 5A (should probably be 9A)",1,,,,,,,Elfa.se 69-655-94,€148.57,"Nätaggregat med fast utspänning 43...58 VDC CH -, DE -, EA-PS548-05R",Should be replaced,€148.57
+,,,,,,,,,,,,,€0.00
+,Motors & Encoders,,,,,,,,,,,,€0.00
+,Maxon 40mm (148877) & 500 CPR Encoder (110514) combination,3,200116,,,,,,,€473.59,,,"€1,420.78"
+ALT,Maxon 30mm,0,310009,,,,,,,,,,€0.00
+ALT,Maxon 25mm,0,118755,,,,,,,,,,
+,,,,,,,,,,,,,
+,Electric Cables,,,,,,,,,,,,€0.00
+,12mm sleeves (5m),1,,,1297228,,,,,€3.03,"PRO POWER, SLEEVING, BRAID, 12MM, BLACK, 5M, PRO POWER-PETBK12BG5-SLEEVING, BRAID, 12MM, BLACK, 5M",,€3.03
+,Male 10 pin cable head (for extending enc.cables),3,,,,,41011859,,,€1.66,IDC hane kabel 10-pol 2.54mm,,€4.98
+,Female 10 pin cable head (for extending enc. cables),3,,,,,41000574,,,€0.37,IDC hona kabel 10-pol guld 2.54mm,,€1.10
+,"10 pin flat cable, per meter (for extending enc. cables)",5,,,,,31670207,,,€0.63,Flatkabel grå 10 ledare 1.27mm /m,,€3.14
+,,,,,,,,,,,,,€0.00
+,PC Connection,,,,,,,,,,,,€0.00
+,Sensoray S826,1,,,,,,,www.enciris.com,€793.73,http://www.sensoray.com/products/826.htm,Order directly or through distributor,€793.73
+,DAQ Cable 26-pin,1,,,2217642,,,,,€4.14,"AMPHENOL  FC26600-0  LEAD, 2.54MM, F/F, 600MM, 26WAY",,€4.14
+,DAQ Cable 50-pin,1,,,2217690,,,,,€7.02,"AMPHENOL  FC50600-0  LEAD, 2.54MM, F/F, 600MM, 50WAY",,€7.02
+,,,,,,,,,,,,,€0.00
+,,,,,,,,,,,,,€0.00
+,ELECTRONICS CIRCUIT BOARDS,,,,,,,,,,,,€0.00
+,,,,,,,,,,,,,€0.00
+,WoodenHaptics Motherboard,,,,,,,,,,,,€0.00
+,PCB manufacturing (price based on order of 2 units),1,,,,,,,pcb-pool.com,€69.00,,,€69.00
+,motor & high pwr connectors,4,,,1761541,,,,,€0.31,"IMO PRECISION CONTROLS  20.155MH/2  HEADER, 3.5MM, HORIZ, 2WAY",,€1.23
+ALT,vertical connectors (4),0,,,1761550,,,,,€0.31,"IMO PRECISION CONTROLS  20.155MV/2  HEADER, 3.5MM, 2WAY",,€0.00
+,cable block high pwr,4,,,1761532,,,,,€0.84,"IMO PRECISION CONTROLS  20.1550M/2  TERMINAL BLOCK, 3.5MM, 2WAY",,€3.34
+,10 pin encoder connector,3,,,2215290,,,,,€0.90,"MULTICOMP  MC9A22-1034  HEADER, THT, RIGHT ANGLE, 2.54MM, 10WAY",,€2.69
+ALT,10 pin STRAIGHT encoder header (3x),0,,,2215304,,,,,€0.49,"61201021621 HEADER, THT, VERTICAL, 2.54MM, 10WAY",,€0.00
+,"micro usb connector, smd (non-reversed)",1,,,1645325,,,,,€1.48,"HIROSE(HRS) ZX62-B-5PA(11) MICRO USB, B TYPE, RECEPTACLE",,€1.48
+,20 pin socket (to ext. board),2,,,1593469,,,,,€1.76,"MULTICOMP  2212S-20SG-85  SOCKET, PCB, 1 ROW, 20WAY",,€3.51
+,4 pin socket (to ext. board),1,,,1593460,,,,,€0.39,"MULTICOMP  2212S-04SG-85  SOCKET, PCB, 1 ROW, 4WAY",,€0.39
+,18 pin (2x9) escon socket,3,,,1668305,,,,,€3.66,"SAMTEC  SSQ-109-01-G-D  RECEPTACLE, 2.54MM, DUAL, 18WAY",,€10.97
+,12 pin escon socket (1 pin discarded),3,,,1593465,,,,,€0.16,"MULTICOMP  2212S-12SG-85  SOCKET, PCB, 1 ROW, 12WAY",,€0.48
+,Encoder driver,3,,,1103045,,,,,€1.02,"TEXAS INSTRUMENTS  AM26LS32ACD  IC, DIFF LINE RECEIVER QUAD, 26LS32",,€3.06
+,,,,,,,,,,,,,€0.00
+,WoodenHaptics DAQ Extension Board,,,,,,,,,,,,€0.00
+,PCB manufacturing (price based on order of 6 units),1,,,,,,,pcb-pool.com,€15.70,,,€15.70
+,50 pin daq connector,1,,,2215272,,,,,€1.93,"AMPHENOL  T816150A1S102CEU  HEADER, L/LATCH, STR, 2.54MM, 50WAY",Should be replaced with low profile,€1.93
+,26 pin daq connector,1,,,2217535,,,,,€1.71,"AMPHENOL  T816126A1S102CEU  HEADER, L/LATCH, STR, 2.54MM, 26WAY",Should be replaced with low profile,€1.71
+,44 pins (50) ext. board,1,,,3418388,,,,,€2.76,"TE CONNECTIVITY / AMP  5-826629-0  HEADER, 1ROW, 50WAY",,€2.76
+,,,,,,,,,,,,,€0.00
+,Box Enclosure Mounting,,,,,,,,,,,,€0.00
+,Distance screws,4,,,1466725,,,,,€0.30,"ETTINGER SPACER, M3X, 5-VZK ETTINGER-05.13.051-SPACER, M3X, 5-VZK",,€1.21
+,M3x6 screws (preferably M3x4 screws that comes with computers),4,,,1419986,,,,,€0.02,"DURATOOL-M36 PRSTMCZ100--SCREW, STEEL, BZP, 6MM, M3, PK100",,€0.09
+,M3 washers,4,,,1377536,,,,,€0.01,"DURATOOL  M3 BRASS FULL WASHER  WASHER, FULL, BRASS, M3",,€0.04
+,,,,,,,,,,,,,€0.00
+,Recommended Equipment for Electronics Workbench,,,,,,,,,,,,€0.00
+,Proper soldering station,0,,,1447700,,,,,€375.13,"WELLER  WD 1000T (EU)  SOLDERING STATION, 80W, 50DEG-450DEG, EU",,€0.00
+,"Proper oscilloscope (not really needed, for testing only)",0,,,2191868,,,,,€823.17,"TEKTRONIX  DPO2002B  OSCILLOSCOPE, 2CH, 70MHZ, 1GSPS",,€0.00
+,Solder cleaner,0,,,1792731,,,,,€4.86,"WELLER CLEANER, WOOL, BRASS, WDC, PK2 WELLER-T0051384099-CLEANER, WOOL, BRASS, WDC, PK2",,€0.00
+,Solder activator,0,,,873895,,,,,€8.76,"WELLER TIP ACTIVATOR, LOW TEMP, 25G WELLER-TIP ACTIVATOR-TIP ACTIVATOR, LOW TEMP, 25G",,€0.00
+,Solder 1.2 mm tip,0,,,1282099,,,,,€4.86,"WELLER TIP, SOLDERING IRON, ROUND, BENT, 1.2MM WELLER-LTF-TIP, SOLDERING IRON, ROUND, BENT, 1.2MM",,€0.00
+,Solder 0.5 mm tip,0,,,1282096,,,,,€4.97,"WELLER TIP, SOLDERING IRON, ROUND, 0.5MM WELLER-LT1SA-TIP, SOLDERING IRON, ROUND, 0.5MM",,€0.00
+,Organizer cabinet (Sortimentskåp),0,,,1367091,,,,,€21.67,"RAACO CABINET, ORGANISER, 44COMPARTMENT",,€0.00
+,De-soldering,0,,,,,,,,,,,€0.00
+,Tweezers ,0,,,1617218,,,,,€81.80,"DURATOOL-D00840-TWEEZERS SET, ESD SAFE, 6PC",,€0.00
+,Hack-cables,0,,,,,,,,,,,€0.00
+,Thin lead,0,,,,,,,,,,,€0.00
+,Thicker lead,0,,,,,,,,,,,€0.00
+,Scalpel,0,,,,,,,,,,,€0.00
+,Precision cutter,0,,,,,,,,,,,€0.00
+,Electrostatic mat kit with wristband and earth connector,0,,,1736631,,,,,€110.69,"MULTICOMP  069-0007  ESD WORKSTATION KIT, BLACK 0.7X1M",,€0.00
+,Heat gun,0,,,2473569,,,,,€126.24,STEINEL HL 2020 E EURO,,
+,Heat gun accessory for (reflector) for crimp tubes,0,,,3116797,,,,,€15.34,"STEINEL-070519-NOZZLE, REFLECTOR, SMALL",,
+,,0,,,,,,,,,,,€0.00
+,,,,,,,,,,,,,€0.00
+,COMPUTER (OPTIONAL),,,,,,,,,,,,€0.00
+,ITX Motherboard AM1 (MSI AM1I),0,,,,,,,Komplett.se 811857,€25.29,"MSI AM1I, Socket-AM1 mini-ITX, DDR3, 1x-PCIe-x16, GbLAN, USB3.0, VGA, DVI, HDMI",,€0.00
+,CPU (AMD Athlon 5350 APU),0,,,,,,,Komplett.se 809078 ,€46.48,"AMD Athlon 5350 Socket-AM1, Quad Core, 2.05GHz, 2MB, 25W, 28nm, Radeon R3-series, Boxed w/fan",,€0.00
+,PSU Small form factor,0,,,,,,,Komplett.se 802785 ,€39.37,"Silverstone ST30SF 300W PSU SFX, 80 Plus Bronze, Standard, 1x 6pin PCIe, 3x SATA, 2x Molex, 1x FD",,€0.00
+,Wireless keyboard/trackpad combo,0,,,,,,,Komplett.se 645476 ,€24.55,Logitech Wireless Touch Keyboard K400,,€0.00
+,Case SilverStone Milo ML05B Black,0,,,,,,,inet.se,€63.39,SilverStone Milo ML05B Svart,,€0.00
+,PCIe flexible riser,0,,,,,,,inet.se,€10.48,ASRock BTCPro Kit (PCIe riser),,€0.00
