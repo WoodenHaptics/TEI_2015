@@ -120,13 +120,10 @@ After the commits accompanying this plan, **everything important is in git and
 pushed.** This local checkout can be deleted.
 
 - **Committed & pushed:** all of `2017-edition/`, `freecad-migration-plan.md`,
-  the paper PDF, this plan, and the existing repo contents.
-- **Local-only, regenerable — NOT committed (safe to discard):**
-  - `woodenhaptics.zip` — flat Onshape-import bundle; regenerate from `Mechanics/`
-    (flat zip of all `.SLD*`, named to match root assembly `woodenhaptics.SLDASM`).
-  - `Mechanics/tei2015-woody-*.png` — render exports; not part of the deliverable.
-  - Duplicate root CSVs were removed (byte-identical copies already live in the
-    repo: TEI-2015 BOM at repo root, 2017 BOM under `2017-edition/bom/`).
+  the paper PDF, this plan, the Onshape import bundle + verification screenshots
+  (`Mechanics/onshape-import/`), and the existing repo contents.
+- **Removed (byte-identical duplicates):** two root CSVs — copies already live in
+  the repo (TEI-2015 BOM at repo root, 2017 BOM under `2017-edition/bom/`).
 - **External, not in any repo — don't lose:** the 2017 arm parametric CAD lives
   only on Onshape (link in `2017-edition/README.md`); the original Inkscape source
   `kirimoto-inkskape-body-c-a4.svg` is already missing.
